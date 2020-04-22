@@ -1,0 +1,14 @@
+C:\Users\Sam\source\repos\pa6-stward1\pa6-stward1\bin\Debug\pa6-stward1.exe.config
+C:\Users\Sam\source\repos\pa6-stward1\pa6-stward1\bin\Debug\pa6-stward1.exe
+C:\Users\Sam\source\repos\pa6-stward1\pa6-stward1\bin\Debug\pa6-stward1.pdb
+C:\Users\Sam\source\repos\pa6-stward1\pa6-stward1\obj\Debug\pa6-stward1.csprojAssemblyReference.cache
+C:\Users\Sam\source\repos\pa6-stward1\pa6-stward1\obj\Debug\pa6_stward1.Properties.Resources.resources
+C:\Users\Sam\source\repos\pa6-stward1\pa6-stward1\obj\Debug\pa6-stward1.csproj.GenerateResource.cache
+C:\Users\Sam\source\repos\pa6-stward1\pa6-stward1\obj\Debug\pa6-stward1.exe
+C:\Users\Sam\source\repos\pa6-stward1\pa6-stward1\obj\Debug\pa6-stward1.pdb
+C:\Users\Sam\source\repos\pa6-stward1\pa6-stward1\obj\Debug\pa6_stward1.frmCWID.resources
+C:\Users\Sam\source\repos\pa6-stward1\pa6-stward1\obj\Debug\pa6_stward1.frmMain.resources
+C:\Users\Sam\source\repos\pa6-stward1\pa6-stward1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sam\source\repos\pa6-stward1\pa6-stward1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sam\source\repos\pa6-stward1\pa6-stward1\obj\Debug\pa6-stward1.csproj.CopyComplete
+C:\Users\Sam\source\repos\pa6-stward1\pa6-stward1\obj\Debug\pa6_stward1.frmEdit.resources
